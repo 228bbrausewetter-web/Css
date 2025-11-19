@@ -1,0 +1,38 @@
+h1 {color: rgb(255, 255, 255);
+background-color: black;
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 40px round;
+  font-family:Bitcount Grid Single;
+}
+}
+
+.orange{
+    background-image:url(IMG/Firefly_create\ a\ image\ of\ a\ fruit\ with\ a\ flat\ background\ 132328\ \(1\).jpg);
+    background-size: cover;
+    background-position: fixed;
+}
+
+
+.strawberry{
+    background-image: url(IMG/Firefly_strawberry\ \ 195371.jpg);
+    background-size:cover ;
+
+}
+div {
+  width: 300px;
+  border: 15px solid rgb(0, 0, 0);
+  padding: 70px;
+  margin: 25px;
+  margin-left: 30%;
+}
+.button {
+}
+.pineapple{
+  background-image: url(IMG/Firefly_create\ a\ image\ of\ a\ pineapple\ 957791\ \(1\).jpg);
+  background-size: cover;height: 225px;width: 300px;
+border-style: dashed; 
+ padding: 100px;
+}
+
